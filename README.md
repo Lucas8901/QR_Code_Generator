@@ -9,7 +9,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src=""/>
+  <img src="https://github.com/Lucas8901/QR_Code_Generator/blob/main/img/bandicam%202023-08-07%2015-18-50-471.gif"/>
   </div>
   
 <br>
